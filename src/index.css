@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+body {
+    background: #020617;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background:
+        radial-gradient(circle at top left, #06b6d4 0%, transparent 35%),
+        radial-gradient(circle at bottom right, #3b82f6 0%, transparent 35%);
+    opacity: 0.15;
+    pointer-events: none;
+}
+
+@keyframes float {
+
+    0%,
+    100% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-15px);
+    }
+}
+
+.animate-float {
+    animation: float 4s ease-in-out infinite;
+}
