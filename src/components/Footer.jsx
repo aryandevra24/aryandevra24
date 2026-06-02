@@ -60,7 +60,7 @@ function Footer() {
                 </div>
 
                 <p className="text-center text-slate-600 text-sm mt-3 flex items-center justify-center gap-2">
-                    Made with <FaHeart className="text-red-400" /> by Aryan Devra
+                    Made with <FaHeart className="text-red-400 animate-pulse" /> by Aryan Devra
                 </p>
 
             </div>
