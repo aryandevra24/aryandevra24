@@ -28,7 +28,7 @@ function Footer() {
                             href="https://github.com/aryandevra24"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-slate-400 hover:text-cyan-400 transition"
+                            className="text-slate-400 hover:text-white transition"
                         >
                             <FaGithub />
                         </a>
@@ -37,7 +37,7 @@ function Footer() {
                             href="https://linkedin.com/in/aryandevra24"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-slate-400 hover:text-cyan-400 transition"
+                            className="text-slate-400 hover:text-[#0A66C2] transition"
                         >
                             <FaLinkedin />
                         </a>
@@ -46,7 +46,7 @@ function Footer() {
                             href="https://wa.me/918445826855"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-slate-400 hover:text-green-400 transition"
+                            className="text-slate-400 hover:text-[#25D366] transition"
                         >
                             <FaWhatsapp />
                         </a>
