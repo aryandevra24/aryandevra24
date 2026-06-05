@@ -50,13 +50,13 @@ Showcasing my projects, skills, education, certifications, and contact informati
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,c,python" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,js" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 </p>
 
 ### Backend
