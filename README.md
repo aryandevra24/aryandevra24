@@ -56,13 +56,19 @@ Showcasing my projects, skills, education, certifications, and contact informati
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
 </p>
 
-### Backend & Tools
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=appwrite,git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=appwrite" />
+</p>
+
+### Tools & Platform
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" />
 </p>
 
 ---
