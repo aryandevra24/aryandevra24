@@ -56,7 +56,7 @@ Showcasing my projects, skills, education, certifications, and contact informati
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux" />
 </p>
 
 ### Backend
