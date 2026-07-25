@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Aryan Devra
 
-### 💻 Frontend Developer | ⚛️ React Developer | 🎓 B.Tech CSE Student
+### 💻 MERN-Stack Developer | B.Tech CS Student
 
-Building modern, responsive, and user-friendly web applications with React, Tailwind CSS, and JavaScript.
+Building modern, responsive web applications with React, Node.js, Express.js, MongoDB and REST APIs.
 
 <p align="center">
   <a href="https://aryandevra24.netlify.app">
@@ -26,119 +26,158 @@ Building modern, responsive, and user-friendly web applications with React, Tail
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech Computer Science Student (2023–2027)
-- 💻 Passionate about Frontend & Full-Stack Development
-- ⚛️ Building modern web applications using React
-- 🎨 Creating responsive UI with Tailwind CSS
-- 🌱 Currently learning Backend Development
-- 📫 Reach me at **[aryandevra24@gmail.com](mailto:aryandevra24@gmail.com)**
+- 💻 Passionate about Full-Stack Web Development
+- ⚛️ Building scalable applications with React & Node.js
+- 🔐 Experienced with JWT Authentication, REST APIs & CRUD Applications
+- 🌱 Currently improving backend architecture and deployment skills
+- 📫 Reach me at **aryandevra24@gmail.com**
 
 ---
 
-## 🌐 Portfolio
+# 🌐 Portfolio
 
-🔗 **Live Portfolio:** https://aryandevra24.netlify.app
+🔗 **Live Portfolio:**  
+https://aryandevra24.netlify.app
 
-Showcasing my projects, skills, education, certifications, and contact information in a modern React + Tailwind CSS portfolio.
+My portfolio showcases projects, technical skills, education, and contact information.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux," />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=appwrite" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Tools & Platform
+### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Backend Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,appwrite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,vite" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 📝 Blogify
+## 📝 Blogify
 
-Full-stack blogging platform built with React and Appwrite featuring authentication, CRUD operations, image uploads, protected routes, and rich-text editing.
+A full-stack blogging platform featuring:
 
-🔗 Live Demo: https://bloging24.netlify.app/
+- Appwrite Backend Services
+- CRUD Operations
+- Rich Text Editor
+- Image Uploads
+- Protected Routes
+- Redux Toolkit State Management
+- Automatic Slug Generation
 
-🔗 Source Code: https://github.com/aryandevra24/Blog
+🌐 Live: https://bloging24.netlify.app
 
----
-
-### 🤖 Agency AI
-
-Modern AI agency website built with React, Vite, and Tailwind CSS featuring responsive design, themes, and contact integration.
-
-🔗 Live Demo: https://agency-ai24.netlify.app/
-
-🔗 Source Code: https://github.com/aryandevra24/Agency-AI
+💻 Repository: https://github.com/aryandevra24/Blog
 
 ---
 
-### 🌦️ Weather Forecast App
+## 🤖 Agency AI
 
-Real-time weather application using OpenWeather API with location search, dynamic weather updates, and error handling.
+A responsive AI agency landing website built using React, Vite and Tailwind CSS.
 
-🔗 Live Demo: https://weather-forecasting24.netlify.app/
+### Features
 
-🔗 Source Code: https://github.com/aryandevra24/Weather-Forecasting
+- Responsive Design
+- Dark / Light Theme
+- Contact Form
+- Reusable Components
+- Clean UI/UX
 
----
+🌐 Live: https://agency-ai24.netlify.app
 
-## 🎯 Current Goals
-
-- 🚀 Master Full-Stack Development
-- 📚 Learn Backend Technologies
-- 🌐 Build Production-Ready Applications
-- 🤝 Contribute to Open Source
-- 💼 Secure a Software Development Role
+💻 Repository: https://github.com/aryandevra24/Agency-AI
 
 ---
 
-## 🌍 Connect With Me
+## 🌦 Weather Forecast App
+
+Weather application using the OpenWeather API.
+
+### Features
+
+- Live Weather Data
+- Search by Location
+- Dynamic UI Updates
+- Error Handling
+- Responsive Layout
+
+🌐 Live: https://weather-forecasting24.netlify.app
+
+💻 Repository: https://github.com/aryandevra24/Weather-Forecasting
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Full-Stack Development
+- ⚙️ System Design
+- ☁️ Cloud Deployment
+- 📚 Data Structures & Algorithms
+- 🤝 Open Source Contributions
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/aryandevra24">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 
-  <a href="https://linkedin.com/in/aryandevra24">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://github.com/aryandevra24">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-  <a href="mailto:aryandevra24@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="https://linkedin.com/in/aryandevra24">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:aryandevra24@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### Thanks for visiting! ❤️
 
-_"Code • Learn • Build • Repeat"_
+**Code • Learn • Build • Improve**
 
-⭐ If you like my work, consider starring my repositories.
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
