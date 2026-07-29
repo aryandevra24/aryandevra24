@@ -57,7 +57,7 @@ My portfolio showcases projects, technical skills, education, and contact inform
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux," />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux" />
 </p>
 
 ### Backend
