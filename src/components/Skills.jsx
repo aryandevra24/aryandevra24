@@ -91,9 +91,15 @@
 //   {
 //     name: "JWT",
 //     category: "Backend",
-//     icon: "https://cdn.simpleicons.org/jsonwebtokens/000000",
+//     icon: "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jsonwebtokens.svg",
 //     link: "https://jwt.io/"
 //   },
+  // {
+  //   name: "OAuth 2.0",
+  //   category: "Backend",
+  //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg",
+  //   link: "https://oauth.net/2/"
+  // }
 
 //   // --- Database ---
 //   {
