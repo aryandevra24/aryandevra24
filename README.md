@@ -7,7 +7,7 @@
 Building modern, responsive web applications with React, Node.js, Express.js, MongoDB and REST APIs.
 
 <p align="center">
-  <a href="https://aryandevra24.netlify.app">
+  <a href="https://aryandevra24.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 
@@ -40,7 +40,7 @@ Building modern, responsive web applications with React, Node.js, Express.js, Mo
 # 🌐 Portfolio
 
 🔗 **Live Portfolio:**  
-https://aryandevra24.netlify.app
+https://aryandevra24.vercel.app
 
 My portfolio showcases projects, technical skills, education, and contact information.
 
